@@ -1,2 +1,1 @@
-# printf
-for the c-printf project with alx group work
+c-printf project for group work with alx
